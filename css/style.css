@@ -271,7 +271,7 @@ img {
     margin-right: 36px;
 }
 
-.navbar .menu .nav-item .nav-link{
+.navbar .menu .nav-item .navlink{
     color: var(--white);
     font-size: 16px;
     font-weight: 600;
@@ -769,7 +769,7 @@ footer {
         margin: 18px 0;
     }
 
-    .navbar.sticky .menu .nav-item .nav-link {
+    .navbar.sticky .menu .nav-item .navlink {
         color: var(--main-color);
     }
 
@@ -885,6 +885,5 @@ footer {
     .newsletter-form .txtb {
         max-width: 260px;
         padding: 16px 20px;
-    }
-    
+    }    
 }

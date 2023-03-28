@@ -14,7 +14,7 @@ if(navTogle) {
 }
 
 // closing menu when navLink is clicked
-const navLink = document.querySelectorAll(".nav-link");
+const navLink = document.querySelectorAll(".navlink");
 function linkAction() {
 	const navMenu = document.querySelector(".menu");
 	navMenu.classList.remove("active")
